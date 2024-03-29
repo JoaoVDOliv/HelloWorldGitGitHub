@@ -23,7 +23,7 @@ Repository about Git and GitHub course from DIO.
 |git pull                                  |Will catch the modified things in cloud repository and put in the local repository|
 
 
-## 📝 Branches
+## 🌳 Branches
 - A branch is a rammification of the project. When we want to add new functionalities in the project, we create a new branch before to put in the Main branch
 - If exist only a branch, like the Main branch, can be cause confision inside the project. So, we can create a branch "Test" to put new functionalities of the project.
 - The commit will go to the branch Test, and after, if approved, will go to the branch Main.
@@ -36,4 +36,5 @@ Repository about Git and GitHub course from DIO.
 
 ## Conflicts
 - Sometimes the will exist merge conflicts, where to devs will send files about the same location.
+- We will know if there are conflitcts if the Git don't accept out push. 
 
